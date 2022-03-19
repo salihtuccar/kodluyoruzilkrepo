@@ -19,11 +19,12 @@ Linux için:
 ```
 cd kodluyoruzilkrepo
 code .
+```
 
 ## Contributing
 
 Pull requestler kabul edilir. Büyük değişiklikler için lütfen önce neyi değiştirmek
-istediğinizi tartışmak için bir konu açınızç
+istediğinizi tartışmak için bir konu açınız.
 
 ## License
 
