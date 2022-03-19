@@ -1,5 +1,5 @@
 # Kodluyoruz Ilk Repo
-[resim](https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/git/odev1/figures/markdown.png)
+![resim](https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/git/odev1/figures/markdown.png)
 
 Bu repo [Kodluyoruz](kodluyoruz.org) Front-End Eğitiminde oluşturduğumuz ilk repo.İçerisinde bir adet
 README dosyasıö bir adet de indexçhtml barındırıyorç
